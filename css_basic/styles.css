@@ -12,7 +12,7 @@ article {
     flex: 2;
     overflow-y: auto;
 }
-aside {
+.sidepoint {
     flex: 1;
     overflow-y: auto;
 }
